@@ -1,4 +1,4 @@
-# pokedex-egsys
+# Arquitetura MVVM - Pokedex 
 Projeto pokédex - Android
 
 Este projeto trata-se do desafio de codificação Pokédex.
