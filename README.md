@@ -1,5 +1,5 @@
-# Arquitetura MVVM - Pokedex 
-Projeto pokédex - Android
+# Android: arquitetura MVVM com Jetpack Compose
+Projeto pokédex
 
 Este projeto trata-se do desafio de codificação Pokédex.
 
